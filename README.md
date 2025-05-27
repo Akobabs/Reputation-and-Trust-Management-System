@@ -113,7 +113,8 @@ Reputation-and-Trust-Management-System/
 
 4. **Preprocess Dataset**
 
-   * Ensure `data/fiverr_data.csv` contains the expected columns:
+   [DataSet](https://www.kaggle.com/datasets/muhammadadiltalay/fiverr-data-gigs)
+   * Ensure `data/fiverr-data-gig-cleaned.csv` contains the expected columns:
 
      > `Title`, `Seller Level`, `Average Rating`, `Number of Reviewers`, `Price (USD)`
    * Run preprocessing:
